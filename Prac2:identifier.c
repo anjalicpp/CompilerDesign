@@ -1,5 +1,4 @@
-Program 2: Design a LEX Code to identify and print valid Identifier of C/C++ in given Input
-pattern.
+Program 2: Design a LEX Code to identify and print valid Identifier of C/C++ in given Input pattern.
 Source Code
 
 
